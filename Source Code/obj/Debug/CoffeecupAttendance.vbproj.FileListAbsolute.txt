@@ -1,0 +1,78 @@
+D:\My.Net\System Core\Coffeecup Attendance\Source Code\bin\Debug\CoffeecupAttendance.exe.config
+D:\My.Net\System Core\Coffeecup Attendance\Source Code\bin\Debug\CoffeecupAttendance.exe
+D:\My.Net\System Core\Coffeecup Attendance\Source Code\bin\Debug\CoffeecupAttendance.pdb
+D:\My.Net\System Core\Coffeecup Attendance\Source Code\bin\Debug\CoffeecupAttendance.xml
+D:\My.Net\System Core\Coffeecup Attendance\Source Code\bin\Debug\System.Data.dll
+D:\My.Net\System Core\Coffeecup Attendance\Source Code\bin\Debug\System.Deployment.dll
+D:\My.Net\System Core\Coffeecup Attendance\Source Code\bin\Debug\System.dll
+D:\My.Net\System Core\Coffeecup Attendance\Source Code\bin\Debug\System.Drawing.dll
+D:\My.Net\System Core\Coffeecup Attendance\Source Code\bin\Debug\System.Windows.Forms.dll
+D:\My.Net\System Core\Coffeecup Attendance\Source Code\bin\Debug\System.Xml.dll
+D:\My.Net\System Core\Coffeecup Attendance\Source Code\bin\Debug\System.Xml.Linq.dll
+D:\My.Net\System Core\Coffeecup Attendance\Source Code\obj\Debug\CoffeecupAttendance.frmCameraSelect.resources
+D:\My.Net\System Core\Coffeecup Attendance\Source Code\obj\Debug\CoffeecupAttendance.frmAttendanceLog.resources
+D:\My.Net\System Core\Coffeecup Attendance\Source Code\obj\Debug\CoffeecupAttendance.frmChangePassword.resources
+D:\My.Net\System Core\Coffeecup Attendance\Source Code\obj\Debug\CoffeecupAttendance.frmSetOneTimePassword.resources
+D:\My.Net\System Core\Coffeecup Attendance\Source Code\obj\Debug\CoffeecupAttendance.frmMainMenu.resources
+D:\My.Net\System Core\Coffeecup Attendance\Source Code\obj\Debug\CoffeecupAttendance.Resources.resources
+D:\My.Net\System Core\Coffeecup Attendance\Source Code\obj\Debug\CoffeecupAttendance.vbproj.GenerateResource.Cache
+D:\My.Net\System Core\Coffeecup Attendance\Source Code\obj\Debug\CoffeecupAttendance.exe
+D:\My.Net\System Core\Coffeecup Attendance\Source Code\obj\Debug\CoffeecupAttendance.xml
+D:\My.Net\System Core\Coffeecup Attendance\Source Code\obj\Debug\CoffeecupAttendance.pdb
+D:\My.Net\System Core\Coffeecup Attendance\Source Code\obj\Debug\CoffeecupAttendance.frmLoginSuccessMessage.resources
+D:\My.Net\System Core\Coffeecup Attendance\Source Code\obj\Debug\CoffeecupAttendance.frmPOSAdminConfirmation.resources
+D:\My.Net\System Core\Coffeecup Attendance\Source Code\obj\Debug\CoffeecupAttendance.frmChangeLogoutDate.resources
+D:\My.Net\System Core\Coffeecup Attendance\Source Code\obj\Debug\CoffeecupAttendance.vbprojResolveAssemblyReference.cache
+D:\My.Net\System Core\Coffeecup Attendance 2\Source Code\bin\Debug\CoffeecupAttendance.exe.config
+D:\My.Net\System Core\Coffeecup Attendance 2\Source Code\bin\Debug\CoffeecupAttendance.exe
+D:\My.Net\System Core\Coffeecup Attendance 2\Source Code\bin\Debug\CoffeecupAttendance.pdb
+D:\My.Net\System Core\Coffeecup Attendance 2\Source Code\bin\Debug\CoffeecupAttendance.xml
+D:\My.Net\System Core\Coffeecup Attendance 2\Source Code\bin\Debug\System.Data.dll
+D:\My.Net\System Core\Coffeecup Attendance 2\Source Code\bin\Debug\System.Deployment.dll
+D:\My.Net\System Core\Coffeecup Attendance 2\Source Code\bin\Debug\System.dll
+D:\My.Net\System Core\Coffeecup Attendance 2\Source Code\bin\Debug\System.Drawing.dll
+D:\My.Net\System Core\Coffeecup Attendance 2\Source Code\bin\Debug\System.Windows.Forms.dll
+D:\My.Net\System Core\Coffeecup Attendance 2\Source Code\bin\Debug\System.Xml.dll
+D:\My.Net\System Core\Coffeecup Attendance 2\Source Code\bin\Debug\System.Xml.Linq.dll
+D:\My.Net\System Core\Coffeecup Attendance 2\Source Code\obj\Debug\CoffeecupAttendance.frmChangeLogoutDate.resources
+D:\My.Net\System Core\Coffeecup Attendance 2\Source Code\obj\Debug\CoffeecupAttendance.frmLoginSuccessMessage.resources
+D:\My.Net\System Core\Coffeecup Attendance 2\Source Code\obj\Debug\CoffeecupAttendance.frmCameraSelect.resources
+D:\My.Net\System Core\Coffeecup Attendance 2\Source Code\obj\Debug\CoffeecupAttendance.frmAttendanceLog.resources
+D:\My.Net\System Core\Coffeecup Attendance 2\Source Code\obj\Debug\CoffeecupAttendance.frmChangePassword.resources
+D:\My.Net\System Core\Coffeecup Attendance 2\Source Code\obj\Debug\CoffeecupAttendance.frmPOSAdminConfirmation.resources
+D:\My.Net\System Core\Coffeecup Attendance 2\Source Code\obj\Debug\CoffeecupAttendance.frmSetOneTimePassword.resources
+D:\My.Net\System Core\Coffeecup Attendance 2\Source Code\obj\Debug\CoffeecupAttendance.frmMainMenu.resources
+D:\My.Net\System Core\Coffeecup Attendance 2\Source Code\obj\Debug\CoffeecupAttendance.Resources.resources
+D:\My.Net\System Core\Coffeecup Attendance 2\Source Code\obj\Debug\CoffeecupAttendance.vbproj.GenerateResource.Cache
+D:\My.Net\System Core\Coffeecup Attendance 2\Source Code\obj\Debug\CoffeecupAttendance.exe
+D:\My.Net\System Core\Coffeecup Attendance 2\Source Code\obj\Debug\CoffeecupAttendance.xml
+D:\My.Net\System Core\Coffeecup Attendance 2\Source Code\obj\Debug\CoffeecupAttendance.pdb
+D:\My.Net\System Core\Coffeecup Attendance 2\Source Code\obj\Debug\CoffeecupAttendance.frmConnectionSetup.resources
+D:\My.Net\System Core\Coffeecup Attendance 2\Source Code\obj\Debug\CoffeecupAttendance.vbprojResolveAssemblyReference.cache
+C:\My Files\My.Net\System Core\Coffeecup Attendance 2\Source Code\bin\Debug\CoffeecupAttendance.exe.config
+C:\My Files\My.Net\System Core\Coffeecup Attendance 2\Source Code\obj\Debug\CoffeecupAttendance.exe
+C:\My Files\My.Net\System Core\Coffeecup Attendance 2\Source Code\obj\Debug\CoffeecupAttendance.xml
+C:\My Files\My.Net\System Core\Coffeecup Attendance 2\Source Code\obj\Debug\CoffeecupAttendance.pdb
+C:\My Files\My.Net\System Core\Coffeecup Attendance 2\Source Code\obj\Debug\CoffeecupAttendance.vbprojResolveAssemblyReference.cache
+C:\My Files\My.Net\System Core\Coffeecup Attendance 2\Source Code\obj\Debug\CoffeecupAttendance.frmSelectDateExport.resources
+C:\My Files\My.Net\System Core\Coffeecup Attendance 2\Source Code\obj\Debug\CoffeecupAttendance.frmChangeLogoutDate.resources
+C:\My Files\My.Net\System Core\Coffeecup Attendance 2\Source Code\obj\Debug\CoffeecupAttendance.frmConnectionSetup.resources
+C:\My Files\My.Net\System Core\Coffeecup Attendance 2\Source Code\obj\Debug\CoffeecupAttendance.frmLoginSuccessMessage.resources
+C:\My Files\My.Net\System Core\Coffeecup Attendance 2\Source Code\obj\Debug\CoffeecupAttendance.frmCameraSelect.resources
+C:\My Files\My.Net\System Core\Coffeecup Attendance 2\Source Code\obj\Debug\CoffeecupAttendance.frmAttendanceLog.resources
+C:\My Files\My.Net\System Core\Coffeecup Attendance 2\Source Code\obj\Debug\CoffeecupAttendance.frmChangePassword.resources
+C:\My Files\My.Net\System Core\Coffeecup Attendance 2\Source Code\obj\Debug\CoffeecupAttendance.frmPOSAdminConfirmation.resources
+C:\My Files\My.Net\System Core\Coffeecup Attendance 2\Source Code\obj\Debug\CoffeecupAttendance.frmSetOneTimePassword.resources
+C:\My Files\My.Net\System Core\Coffeecup Attendance 2\Source Code\obj\Debug\CoffeecupAttendance.frmMainMenu.resources
+C:\My Files\My.Net\System Core\Coffeecup Attendance 2\Source Code\obj\Debug\CoffeecupAttendance.Resources.resources
+C:\My Files\My.Net\System Core\Coffeecup Attendance 2\Source Code\obj\Debug\CoffeecupAttendance.vbproj.GenerateResource.Cache
+C:\My Files\My.Net\System Core\Coffeecup Attendance 2\Source Code\bin\Debug\CoffeecupAttendance.exe
+C:\My Files\My.Net\System Core\Coffeecup Attendance 2\Source Code\bin\Debug\CoffeecupAttendance.pdb
+C:\My Files\My.Net\System Core\Coffeecup Attendance 2\Source Code\bin\Debug\CoffeecupAttendance.xml
+C:\My Files\My.Net\System Core\Coffeecup Attendance 2\Source Code\bin\Debug\System.Data.dll
+C:\My Files\My.Net\System Core\Coffeecup Attendance 2\Source Code\bin\Debug\System.Deployment.dll
+C:\My Files\My.Net\System Core\Coffeecup Attendance 2\Source Code\bin\Debug\System.dll
+C:\My Files\My.Net\System Core\Coffeecup Attendance 2\Source Code\bin\Debug\System.Drawing.dll
+C:\My Files\My.Net\System Core\Coffeecup Attendance 2\Source Code\bin\Debug\System.Windows.Forms.dll
+C:\My Files\My.Net\System Core\Coffeecup Attendance 2\Source Code\bin\Debug\System.Xml.dll
+C:\My Files\My.Net\System Core\Coffeecup Attendance 2\Source Code\bin\Debug\System.Xml.Linq.dll

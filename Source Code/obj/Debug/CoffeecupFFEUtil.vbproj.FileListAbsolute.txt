@@ -1,0 +1,61 @@
+D:\My.Net\Coffeecup FFE Utility\Source Code\bin\Debug\CoffeecupFFEUtil.exe.config
+D:\My.Net\Coffeecup FFE Utility\Source Code\bin\Debug\CoffeecupFFEUtil.exe
+D:\My.Net\Coffeecup FFE Utility\Source Code\bin\Debug\CoffeecupFFEUtil.pdb
+D:\My.Net\Coffeecup FFE Utility\Source Code\bin\Debug\CoffeecupFFEUtil.xml
+D:\My.Net\Coffeecup FFE Utility\Source Code\bin\Debug\MySql.Data.dll
+D:\My.Net\Coffeecup FFE Utility\Source Code\bin\Debug\System.Data.dll
+D:\My.Net\Coffeecup FFE Utility\Source Code\bin\Debug\System.Deployment.dll
+D:\My.Net\Coffeecup FFE Utility\Source Code\bin\Debug\System.dll
+D:\My.Net\Coffeecup FFE Utility\Source Code\bin\Debug\System.Drawing.dll
+D:\My.Net\Coffeecup FFE Utility\Source Code\bin\Debug\System.Windows.Forms.dll
+D:\My.Net\Coffeecup FFE Utility\Source Code\bin\Debug\System.Xml.dll
+D:\My.Net\Coffeecup FFE Utility\Source Code\bin\Debug\System.Xml.Linq.dll
+D:\My.Net\Coffeecup FFE Utility\Source Code\bin\Debug\System.Xml.Linq.xml
+D:\My.Net\Coffeecup FFE Utility\Source Code\obj\Debug\CoffeecupFFEUtil.frmChangePassword.resources
+D:\My.Net\Coffeecup FFE Utility\Source Code\obj\Debug\CoffeecupFFEUtil.frmLoginAccount.resources
+D:\My.Net\Coffeecup FFE Utility\Source Code\obj\Debug\CoffeecupFFEUtil.frmConnectionSetup.resources
+D:\My.Net\Coffeecup FFE Utility\Source Code\obj\Debug\CoffeecupFFEUtil.frmMainMenu.resources
+D:\My.Net\Coffeecup FFE Utility\Source Code\obj\Debug\CoffeecupFFEUtil.Resources.resources
+D:\My.Net\Coffeecup FFE Utility\Source Code\obj\Debug\CoffeecupFFEUtil.vbproj.GenerateResource.Cache
+D:\My.Net\Coffeecup FFE Utility\Source Code\obj\Debug\CoffeecupFFEUtil.exe
+D:\My.Net\Coffeecup FFE Utility\Source Code\obj\Debug\CoffeecupFFEUtil.xml
+D:\My.Net\Coffeecup FFE Utility\Source Code\obj\Debug\CoffeecupFFEUtil.pdb
+D:\My.Net\Coffeecup FFE Utility\Source Code\obj\Debug\CoffeecupFFEUtil.frmProductRegistration.resources
+D:\My.Net\Coffeecup FFE Utility\Source Code\obj\Debug\CoffeecupFFEUtil.frmStockhouseRegistration.resources
+D:\My.Net\Coffeecup FFE Utility\Source Code\obj\Debug\CoffeecupFFEUtil.frmEmployees.resources
+D:\My.Net\Coffeecup FFE Utility\Source Code\obj\Debug\CoffeecupFFEUtil.frmInventoryPerformance.resources
+D:\My.Net\Coffeecup FFE Utility\Source Code\obj\Debug\CoffeecupFFEUtil.frmNewInventoryEntry.resources
+D:\My.Net\Coffeecup FFE Utility\Source Code\obj\Debug\CoffeecupFFEUtil.frmInventoryReport.resources
+D:\My.Net\Coffeecup FFE Utility\Source Code\obj\Debug\CoffeecupFFEUtil.frmUserInventorySelector.resources
+D:\My.Net\Coffeecup FFE Utility\Source Code\obj\Debug\CoffeecupFFEUtil.vbprojResolveAssemblyReference.cache
+D:\My.Net\System Core\Coffeecup FFE Utility\Source Code\bin\Debug\CoffeecupFFEUtil.exe.config
+D:\My.Net\System Core\Coffeecup FFE Utility\Source Code\bin\Debug\CoffeecupFFEUtil.exe
+D:\My.Net\System Core\Coffeecup FFE Utility\Source Code\bin\Debug\CoffeecupFFEUtil.pdb
+D:\My.Net\System Core\Coffeecup FFE Utility\Source Code\bin\Debug\CoffeecupFFEUtil.xml
+D:\My.Net\System Core\Coffeecup FFE Utility\Source Code\bin\Debug\MySql.Data.dll
+D:\My.Net\System Core\Coffeecup FFE Utility\Source Code\bin\Debug\System.Data.dll
+D:\My.Net\System Core\Coffeecup FFE Utility\Source Code\bin\Debug\System.Deployment.dll
+D:\My.Net\System Core\Coffeecup FFE Utility\Source Code\bin\Debug\System.dll
+D:\My.Net\System Core\Coffeecup FFE Utility\Source Code\bin\Debug\System.Drawing.dll
+D:\My.Net\System Core\Coffeecup FFE Utility\Source Code\bin\Debug\System.Windows.Forms.dll
+D:\My.Net\System Core\Coffeecup FFE Utility\Source Code\bin\Debug\System.Xml.dll
+D:\My.Net\System Core\Coffeecup FFE Utility\Source Code\bin\Debug\System.Xml.Linq.dll
+D:\My.Net\System Core\Coffeecup FFE Utility\Source Code\bin\Debug\System.Xml.Linq.xml
+D:\My.Net\System Core\Coffeecup FFE Utility\Source Code\obj\Debug\CoffeecupFFEUtil.frmConfirmInventory.resources
+D:\My.Net\System Core\Coffeecup FFE Utility\Source Code\obj\Debug\CoffeecupFFEUtil.frmMandarinAutoparts.resources
+D:\My.Net\System Core\Coffeecup FFE Utility\Source Code\obj\Debug\CoffeecupFFEUtil.frmUserInventorySelector.resources
+D:\My.Net\System Core\Coffeecup FFE Utility\Source Code\obj\Debug\CoffeecupFFEUtil.frmEmployees.resources
+D:\My.Net\System Core\Coffeecup FFE Utility\Source Code\obj\Debug\CoffeecupFFEUtil.frmStockhouseRegistration.resources
+D:\My.Net\System Core\Coffeecup FFE Utility\Source Code\obj\Debug\CoffeecupFFEUtil.frmChangePassword.resources
+D:\My.Net\System Core\Coffeecup FFE Utility\Source Code\obj\Debug\CoffeecupFFEUtil.frmInventoryPerformance.resources
+D:\My.Net\System Core\Coffeecup FFE Utility\Source Code\obj\Debug\CoffeecupFFEUtil.frmLoginAccount.resources
+D:\My.Net\System Core\Coffeecup FFE Utility\Source Code\obj\Debug\CoffeecupFFEUtil.frmNewInventoryEntry.resources
+D:\My.Net\System Core\Coffeecup FFE Utility\Source Code\obj\Debug\CoffeecupFFEUtil.frmProductRegistration.resources
+D:\My.Net\System Core\Coffeecup FFE Utility\Source Code\obj\Debug\CoffeecupFFEUtil.frmConnectionSetup.resources
+D:\My.Net\System Core\Coffeecup FFE Utility\Source Code\obj\Debug\CoffeecupFFEUtil.frmInventoryReport.resources
+D:\My.Net\System Core\Coffeecup FFE Utility\Source Code\obj\Debug\CoffeecupFFEUtil.frmMainMenu.resources
+D:\My.Net\System Core\Coffeecup FFE Utility\Source Code\obj\Debug\CoffeecupFFEUtil.Resources.resources
+D:\My.Net\System Core\Coffeecup FFE Utility\Source Code\obj\Debug\CoffeecupFFEUtil.vbproj.GenerateResource.Cache
+D:\My.Net\System Core\Coffeecup FFE Utility\Source Code\obj\Debug\CoffeecupFFEUtil.exe
+D:\My.Net\System Core\Coffeecup FFE Utility\Source Code\obj\Debug\CoffeecupFFEUtil.xml
+D:\My.Net\System Core\Coffeecup FFE Utility\Source Code\obj\Debug\CoffeecupFFEUtil.pdb
